@@ -9,7 +9,7 @@ Welcome to my Data Science Portfolio! My projects have been categorized into fou
 - Visualizing Gender Gaps in College Degrees - Using Python https://github.com/soochoe/Visualizing-Gender-Gaps-in-College-Degrees
 
 #### End to End Machine Learning Project
-- Kepler Exoplant Project - Using R https://github.com/soochoe/Kepler-Exoplanet-Project
+- Kepler Exoplanet Project - Using R https://github.com/soochoe/Kepler-Exoplanet-Project
 
 #### SQL Projects
 - SQL Database Project - Using MySQL https://github.com/soochoe/SQL-Database-Project
