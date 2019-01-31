@@ -1,8 +1,8 @@
 # Portfolio
-Welcome to my Data Science Portfolio! My projects have been categorized into four different categories as seen below. 
+Welcome to my Data Science Portfolio! My projects have been categorized into four different categories as seen below.
 
 #### Data Cleaning Projects
-- Analyzing NYC High School Data - Using Python https://github.com/soochoe/Analyzing-Album-Sales
+- Analyzing NYC High School Data - Using Python https://github.com/soochoe/Analyzing-NYC-High-School-Data
 - Star Wars Survey - Using Python https://github.com/soochoe/Star-Wars-Survey
 
 #### Data Storytelling Project
@@ -14,4 +14,3 @@ Welcome to my Data Science Portfolio! My projects have been categorized into fou
 #### SQL Projects
 - SQL Database Project - Using MySQL https://github.com/soochoe/SQL-Database-Project
 - Analyzing Album Sales - Using SQLite https://github.com/soochoe/Analyzing-Album-Sales
-
