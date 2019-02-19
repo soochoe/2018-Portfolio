@@ -17,7 +17,7 @@ unsupervised learning techniques respectively to predict whether a Kepler Object
 a polo club in Denmark and developed a MySQL database using XAMPP platform that aligns with the data model. Populated dataset with test data to allow basic querying and wrote SQL query to analyze the key aspects of the business using the data model.
  https://github.com/soochoe/SQL-Database-Project
 
-- **Analyzing Album Sales** - Using Python & SQLite. Discovered the most popular music genre in America by retrieving data using SELECT commands and created a graph to visualize the information using Python. Wrote a complex SQL query in order to analyze the amount of individual album sales to individual tracks. Libaries Used: sqlite3, pandas, matplotlib. https://github.com/soochoe/Analyzing-Album-Sales
+- **Analyzing Album Sales** - Using Python & SQLite. Discovered the most popular music genre in America by retrieving data using SELECT commands in a Jupyter Notebook and created a graph to visualize the information using Python. Wrote a complex SQL query in order to analyze the amount of album sales to individual tracks. Libaries Used: sqlite3, pandas, matplotlib. https://github.com/soochoe/Analyzing-Album-Sales
 
 ### __Data Storytelling Project__
-- **Visualizing Gender Gaps in College Degrees** - Using Python https://github.com/soochoe/Visualizing-Gender-Gaps-in-College-Degrees
+- **Visualizing Gender Gaps in College Degrees** - Using Python. Created and designed plots comparing male and female enrollment across 17 different bachelor degree categories from 1968 to 2011 in order to visualize gender gaps in college throughout time. Libraries used: pandas, matplotlib. https://github.com/soochoe/Visualizing-Gender-Gaps-in-College-Degrees
