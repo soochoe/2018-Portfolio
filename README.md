@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my Data Science Portfolio! My projects have been categorized into four different categories as seen below.
+Welcome to my Data Science Portfolio! My projects have been categorized into four different categories as shown below.
 
 ### __Data Cleaning Projects__
 - **Star Wars Survey** - Using Python. Examined and visualized data collected from Star Wars Movies surveys. Data Cleaning and Exploratory Data Analysis were conducted in a Jupyter notebook to analyze if Star Trek fans were also fans of Star Wars and which Star Wars movie was the best in terms of number of views and ranking. Libraries used: pandas, numpy, matplotlib. https://github.com/soochoe/Star-Wars-Survey
